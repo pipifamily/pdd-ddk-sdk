@@ -1,0 +1,28 @@
+{
+    "name": "pipifamily/pdd-ddk-sdk",
+    "description": "个拼多多多多进宝的SDK",
+    "type": "project",
+    "authors": [
+        {
+            "name": "pipifamily",
+            "email": "18827035411@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^5.5|^7.0",
+        "ext-curl": "*",
+        "ext-json": "*"
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://mirrors.aliyun.com/composer/"
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Com\\Pdd\\Pop\\Sdk\\": "src/"
+        }
+    }
+}
