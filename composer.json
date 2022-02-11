@@ -1,7 +1,8 @@
 {
     "name": "pipifamily/pdd-ddk-sdk",
     "description": "个拼多多多多进宝的SDK",
-    "type": "project",
+    "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "pipifamily",
