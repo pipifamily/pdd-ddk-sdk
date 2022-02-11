@@ -9,7 +9,7 @@
             "email": "18827035411@163.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
         "php": "^5.5|^7.0",
         "ext-curl": "*",
