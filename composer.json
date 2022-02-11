@@ -1,6 +1,6 @@
 {
     "name": "pipifamily/pdd-ddk-sdk",
-    "description": "个拼多多多多进宝的SDK",
+    "description": "拼多多-多多进宝的SDK",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -9,7 +9,6 @@
             "email": "18827035411@163.com"
         }
     ],
-    "minimum-stability": "stable",
     "require": {
         "php": "^5.5|^7.0",
         "ext-curl": "*",
